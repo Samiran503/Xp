@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "homeeworld4.aternos.me",
-    "port": 64738,
+    "ip": "play.biltusmp.xyz",
+    "port": 25582,
     "version": "1.20.1",
     "try-creative": false
   },
