@@ -1,7 +1,7 @@
 {
-  "name": "mira",
+  "name": "Zeemba",
   "bot-account": {
-    "username": "mira",
+    "username": "Zeemba",
     "password": "",
     "type": "offline"
   },
@@ -20,15 +20,15 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "Lala"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
